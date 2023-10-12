@@ -1,0 +1,10 @@
+.tesla {
+    text-align: center;
+    font-family: "Poppins",sans-serif;
+}
+
+h1{
+    display: block;
+    padding-top: 72px;
+    /* font-weight: 900px; */
+}

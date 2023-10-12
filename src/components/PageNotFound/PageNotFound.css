@@ -1,0 +1,26 @@
+
+.pageNotFound{
+    background-color: #141e4c;
+    font-family: "Poppins",sans-serif;
+    color: white;
+    padding-top: 100px;
+}
+
+
+.error-image{
+    height: 15rem;
+    margin-bottom: 38px;
+    margin-left: 550px;
+}
+
+.h3-pnf{
+    margin-left: 130px;
+}
+
+.h3-pnf2{
+    margin-left: 500px;
+}
+
+.h1-pnf{
+    margin-left: 700px;
+}

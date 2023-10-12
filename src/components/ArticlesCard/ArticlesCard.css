@@ -1,0 +1,12 @@
+.articles-card{
+    width: 408px;
+    /* margin-top: 58px; */
+    margin-left: 2rem;
+    height: 600px;
+}
+
+.article-image{
+    height: 243px;
+    margin-left: 0px;
+    width: 408px;
+}
